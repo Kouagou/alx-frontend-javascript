@@ -1,1 +1,1 @@
-0x00. ES6 Basics
+Solutions for 0x00. ES6 Basics
