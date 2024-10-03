@@ -1,5 +1,3 @@
-import createEmployeesObject from './11-createEmployeesObject';
-
 export default function createReportObject(employeesList) {
   const obj = {
     allEmployees: {
@@ -7,7 +5,7 @@ export default function createReportObject(employeesList) {
     },
     getNumberOfDepartments(employeesList) {
       return Object.keys(employeesList).length;
-    }
+    },
   };
 
   return obj;
